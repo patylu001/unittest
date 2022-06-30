@@ -19,8 +19,8 @@ public class CalculadoraTest {
 		System.out.println("Este es el teardown");
 	}
 
-	//@Test
-	public void sumaPositivosTest {
+	@Test
+	public void sumaPositivosTest() {
 		
 		//Ejercicio, llamada del código que vamos a probar
 		double resultado = calculadora.suma(10, 5);
