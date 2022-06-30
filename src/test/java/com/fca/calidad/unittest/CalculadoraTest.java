@@ -19,7 +19,7 @@ public class CalculadoraTest {
 		System.out.println("Este es el teardown");
 	}
 
-	@Test
+	//@Test
 	public void sumaPositivosTest() {
 		
 		//Ejercicio, llamada del código que vamos a probar
