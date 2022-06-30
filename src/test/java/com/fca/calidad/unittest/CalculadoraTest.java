@@ -20,7 +20,7 @@ public class CalculadoraTest {
 	}
 
 	//@Test
-	public void sumaPositivosTest() {
+	public void sumaPositivosTest {
 		
 		//Ejercicio, llamada del código que vamos a probar
 		double resultado = calculadora.suma(10, 5);
