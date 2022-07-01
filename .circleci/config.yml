@@ -25,7 +25,7 @@ jobs:
       # Then run your tests!
       - run:
           name: Test funcional
-          command: mvn test -Dtest="TestGoogle"
+          command: mvn test
           
       - run:
           name: Save test results
